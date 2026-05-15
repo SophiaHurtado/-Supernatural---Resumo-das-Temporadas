@@ -17,20 +17,6 @@ CSS3: Para a estilização, incluindo o fundo temático que remete a um diário 
 
 Git & GitHub: Para controle de versão e hospedagem.
 
-📸 Demonstração
-[!TIP]
-Insira aqui um print atualizado do seu site ou o link do GitHub Pages se você já tiver ativado!
 
-📝 Como rodar o projeto localmente
-Clone este repositório:
 
-Bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-Navegue até a pasta do projeto:
 
-Bash
-cd NOME-DO-REPOSITORIO
-Abra o arquivo index.html no seu navegador preferido.
-
-✒️ Autor
-Seu Nome - Seu GitHub
