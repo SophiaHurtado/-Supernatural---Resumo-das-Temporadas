@@ -17,9 +17,6 @@ CSS3: For styling, including a thematic background designed to look like an old 
 
 Git & GitHub: For version control and hosting.
 
-📸 Preview
-[!TIP]
-You can add your project screenshot here to make it look even better!
 
 📝 How to run the project locally
 Clone this repository:
